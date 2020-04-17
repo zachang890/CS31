@@ -1,3 +1,3 @@
-### CS31
+# CS31
 ##CS 31 @ UCLA, Professor Smallberg 
-#Introduction to C++, Grade Received: A
+##Introduction to C++, Grade Received: A
